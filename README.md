@@ -30,7 +30,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-About%20Me-7C3AED?style=flat-square"/>
+### About Me
 
 <br/>
 
@@ -50,7 +50,7 @@ I'm currently ranked in the **Top 25% globally on TryHackMe** (34 rooms complete
 
 ---
 
-### <img src="https://img.shields.io/badge/-Tech%20Stack-7C3AED?style=flat-square"/>
+### Tech Stack
 
 <br/>
 
@@ -116,7 +116,7 @@ I'm currently ranked in the **Top 25% globally on TryHackMe** (34 rooms complete
 
 ---
 
-### <img src="https://img.shields.io/badge/-Cybersecurity%20Focus-7C3AED?style=flat-square"/>
+### Cybersecurity Focus
 
 <br/>
 
@@ -137,11 +137,11 @@ I'm currently ranked in the **Top 25% globally on TryHackMe** (34 rooms complete
 
 ---
 
-### <img src="https://img.shields.io/badge/-Featured%20Projects-7C3AED?style=flat-square"/>
+### Featured Projects
 
 <br/>
 
-#### <img src="https://img.shields.io/badge/RepoGuard-AI%20Security%20Scanner-1B2333?style=flat-square&logo=github&logoColor=white"/>
+#### RepoGuard — AI-Powered GitHub Security Scanner
 
 [github.com/hariharan-a-cyber/RepoGuard](https://github.com/hariharan-a-cyber/RepoGuard)
 
@@ -153,7 +153,7 @@ Automated, AI-augmented vulnerability detection for GitHub pull requests.
 
 <br/>
 
-#### <img src="https://img.shields.io/badge/ZeroKey-Zero%20Knowledge%20Password%20Manager-1B2333?style=flat-square&logo=android&logoColor=3DDC84"/>
+#### ZeroKey — Zero-Knowledge Password Manager
 
 [github.com/hariharan-a-cyber/ZeroKey](https://github.com/hariharan-a-cyber/ZeroKey)
 
@@ -165,7 +165,7 @@ Android password vault built on zero-knowledge principles with hardware-backed e
 
 <br/>
 
-#### <img src="https://img.shields.io/badge/Rytm-Habit%20%26%20Hydration%20Tracker-1B2333?style=flat-square&logo=android&logoColor=3DDC84"/>
+#### Rytm — Habit & Hydration Tracker
 
 [github.com/hariharan-a-cyber/Rytm](https://github.com/hariharan-a-cyber/Rytm)
 
@@ -177,7 +177,7 @@ Android habit tracker built on Clean Architecture with a reliable alarm engine.
 
 <br/>
 
-#### <img src="https://img.shields.io/badge/Prodify-AI%20Study%20Productivity%20App-1B2333?style=flat-square&logo=googlechrome&logoColor=white"/>
+#### Prodify — AI Study Productivity App
 
 [github.com/hariharan-a-cyber/Prodify](https://github.com/hariharan-a-cyber/Prodify)
 
@@ -189,7 +189,7 @@ Offline-first study app with an AI coach, focus mode, and gamification.
 
 ---
 
-### <img src="https://img.shields.io/badge/-Experience-7C3AED?style=flat-square"/>
+### Experience
 
 <br/>
 
@@ -204,7 +204,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 ---
 
-### <img src="https://img.shields.io/badge/-Achievements-7C3AED?style=flat-square"/>
+### Achievements
 
 <br/>
 
@@ -241,7 +241,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 ---
 
-### <img src="https://img.shields.io/badge/-GitHub%20Stats-7C3AED?style=flat-square"/>
+### GitHub Stats
 
 <br/>
 
@@ -265,7 +265,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 ---
 
-### <img src="https://img.shields.io/badge/-Contribution%20Snake-7C3AED?style=flat-square"/>
+### Contribution Snake
 
 <br/>
 
@@ -275,7 +275,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 ---
 
-### <img src="https://img.shields.io/badge/-Currently-7C3AED?style=flat-square"/>
+### Currently
 
 <br/>
 
@@ -291,7 +291,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 ---
 
-### <img src="https://img.shields.io/badge/-Connect-7C3AED?style=flat-square"/>
+### Connect
 
 <br/>
 
