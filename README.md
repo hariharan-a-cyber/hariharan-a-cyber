@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Aspiring+Penetration+Tester;Security+Tool+Builder;Android+%26+Full+Stack+Developer;TryHackMe+Top+25%25+Globally;National+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Aspiring+Penetration+Tester;Security+Tool+Builder;Android+%26+Full+Stack+Developer;TryHackMe+Top+25%25+Globally;National+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -24,7 +24,12 @@
   <a href="mailto:hariharan.a.cyber@gmail.com"><img src="https://img.shields.io/badge/Email-hariharan.a.cyber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hariharan-a-cyber"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
   <a href="https://github.com/hariharan-a-cyber"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -270,7 +275,7 @@ Elected representative for the IT department cohort, bridging communication betw
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hariharan-a-cyber/hariharan-a-cyber/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="95%"/>
+  <img src="https://raw.githubusercontent.com/hariharan-a-cyber/hariharan-a-cyber/output/snake-purple.svg" alt="contribution snake" width="95%"/>
 </p>
 
 ---
