@@ -59,9 +59,9 @@
 
 <br/>
 
-I'm a security-focused software developer and second-year IT undergraduate, building tools at the intersection of **cybersecurity**, **Android development**, and **full-stack web**. My work spans zero-knowledge cryptographic systems, AI-augmented vulnerability scanners, and production-grade Android apps.
+I'm a security-focused software developer and second-year IT undergraduate, building tools at the intersection of **cybersecurity**, **Android development**, and **full-stack web**. My work spans zero-knowledge cryptographic systems, AI-augmented vulnerability scanners, ML-based phishing detection, and production-grade Android apps.
 
-I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and have integrated real security tooling — Semgrep, Bandit, and OWASP Top 10 mapping — into a working production project called RepoGuard.
+I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and have integrated real security tooling — Semgrep, Bandit, and OWASP Top 10 mapping — into working production projects.
 
 <br/>
 
@@ -162,6 +162,7 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 | Static Analysis | `Familiar` | Semgrep & Bandit integrated in RepoGuard |
 | Cryptography | `Familiar` | AES-256, Argon2id, HMAC-SHA256 in ZeroKey |
 | OWASP Top 10 | `Aware` | Applied finding categories in RepoGuard |
+| ML Threat Detection | `Familiar` | 97.7% F1 phishing detection in PhishGuard AI |
 | Networking | `Beginner` | TryHackMe Network Fundamentals |
 | Linux & CLI | `Beginner` | TryHackMe Linux Fundamentals |
 | Android Hardening | `Familiar` | Root/Frida detection, FLAG_SECURE in ZeroKey |
@@ -181,51 +182,73 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 <br/>
 
-#### RepoGuard — AI-Powered GitHub Security Scanner
-
-[github.com/hariharan-a-cyber/RepoGuard](https://github.com/hariharan-a-cyber/RepoGuard)
-
-Automated, AI-augmented vulnerability detection for GitHub pull requests.
-
-- **Stack:** Python · FastAPI · Semgrep · Bandit · OpenAI-compatible API · GitHub Actions
-- Scans every PR automatically, posts results as comments, and ranks findings with a 0–100 risk score mapped to OWASP categories
-- Secured with JWT authentication
-
-<br/>
-
-#### ZeroKey — Zero-Knowledge Password Manager
+#### ZeroKey — Zero-Knowledge Password Vault with Secure Sharing
 
 [github.com/hariharan-a-cyber/ZeroKey](https://github.com/hariharan-a-cyber/ZeroKey)
 
-Android password vault built on zero-knowledge principles with hardware-backed encryption.
+Android password vault built on zero-knowledge principles with hardware-backed encryption and encrypted credential sharing.
 
-- **Stack:** Kotlin · Jetpack Compose · Google Tink · Argon2id · Android Keystore
+- **Stack:** Kotlin · Jetpack Compose · Google Tink · Argon2id · Android Keystore · Firestore
 - Argon2id key derivation + AES-256 envelope encryption, StrongBox/TEE-backed keys
 - Phishing-resistant Autofill with domain verification; end-to-end encrypted Firestore sync
+- Ephemeral key exchange for secure cross-device credential sharing
 
 <br/>
 
-#### Rytm — Habit & Hydration Tracker
+#### RepoGuard — Static Application Security Scanner for GitHub
+
+[github.com/hariharan-a-cyber/RepoGuard](https://github.com/hariharan-a-cyber/RepoGuard)
+
+Automated, AI-augmented vulnerability detection engine integrated directly into GitHub pull request workflows.
+
+- **Stack:** Python · FastAPI · Semgrep · Bandit · OpenAI-compatible API · GitHub Actions
+- Scans every PR automatically, posts per-finding results as comments with a 0–100 risk score
+- OWASP-mapped findings with AI-generated remediation guidance per vulnerability
+- Secured with JWT authentication; secret scanning integrated via GitHub Actions
+
+<br/>
+
+#### PhishGuard AI — ML-Based Email Phishing Detection
+
+[github.com/hariharan-a-cyber/PhishGuard](https://github.com/hariharan-a-cyber/PhishGuard) · [Live Demo](https://phishguardtech.vercel.app)
+
+> **2nd Place — National Level Hackathon** · Built as team leader of a 4-member team in first year · Fully rebuilt and modernised from the original hackathon codebase.
+
+Real-time phishing detection system that analyses email text, sender reputation, and URLs through a 27-feature ML pipeline.
+
+- **Stack:** Python · Flask · scikit-learn · SQLite · REST API · Vercel
+- Ensemble model — Random Forest + Gradient Boosting — achieving **97.7% F1** on held-out test set
+- **16/16 correct** on a hand-written real-world evaluation set; legitimate mail scores ≤ 0.27, phishing ≥ 0.85
+- 27-feature pipeline covering URL structure (IP literals, punycode, suspicious TLDs, domain entropy), text signals (urgency, credential/money terms), and sender reputation
+- Explainable verdicts with human-readable reasons per scan; full scan history and alerts via SQLite
+- Single source of truth for features eliminates train/serve mismatch; supports offline synthetic training with no external dataset required
+
+<br/>
+
+#### Prodify — Offline-First Study Productivity App
+
+[github.com/hariharan-a-cyber/Prodify](https://github.com/hariharan-a-cyber/Prodify) · [Live](https://prodifyhub.vercel.app)
+
+Offline-first study productivity web app with AI coach, focus mode, and gamification — packaged for Android via Capacitor.
+
+- **Stack:** JavaScript · Firebase Auth · Firestore · Capacitor · Service Worker · IndexedDB
+- Fully functional offline via IndexedDB + service worker caching — zero network dependency
+- XP/badge gamification, smart study scheduler, focus mode with distraction blocking
+- Deployed on Vercel with GitHub-connected CI/CD; packaged as Android APK via Capacitor
+
+<br/>
+
+#### Rytm — High-Reliability Habit & Hydration Tracker
 
 [github.com/hariharan-a-cyber/Rytm](https://github.com/hariharan-a-cyber/Rytm)
 
-Android habit tracker built on Clean Architecture with a reliable alarm engine.
+Native Android habit tracker built on Clean Architecture with a battle-tested alarm engine that fires reliably even during Android Deep Sleep.
 
-- **Stack:** Kotlin · Room · Dagger Hilt · Coroutines · Kotlin Flow
-- `setExactAndAllowWhileIdle` ensures alarms fire even in Doze mode
-- Full JSON backup/restore with atomic Room transactions
-
-<br/>
-
-#### Prodify — AI Study Productivity App
-
-[github.com/hariharan-a-cyber/Prodify](https://github.com/hariharan-a-cyber/Prodify)
-
-Offline-first study app with an AI coach, focus mode, and gamification.
-
-- **Stack:** JavaScript · Firebase · Capacitor · Service Worker · IndexedDB
-- Fully functional offline via IndexedDB + service worker caching
-- XP/badge system, smart scheduler, packaged for Android via Capacitor, deployed on Vercel
+- **Stack:** Kotlin · Room · Dagger Hilt · Coroutines · Kotlin Flow · WorkManager · AlarmManager
+- `setExactAndAllowWhileIdle` alarm engine — guaranteed delivery during Doze mode
+- Full-screen lock-screen alarms with snooze; water tracking with confetti celebrations
+- Non-destructive Room migration, atomic transactions, JSON backup/restore
+- Reboot and clock-change rescheduling via BroadcastReceivers
 
 <br/>
 <br/>
@@ -259,7 +282,7 @@ Elected representative for the IT department cohort, bridging communication betw
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2nd%20Place-NovoForge%20National%20Hackathon%202025-silver?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/2nd%20Place-NovoForge%20National%20Hackathon%202025-C0C0C0?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <br/>
@@ -281,7 +304,7 @@ Elected representative for the IT department cohort, bridging communication betw
 
 | Recognition | Details |
 |:---|:---|
-| 2nd Place | NovoForge National Level Hackathon 2025 · DSCET |
+| 2nd Place | NovoForge National Level Hackathon 2025 · DSCET · PhishGuard AI |
 | Top 15% Global | TryHackMe — 47 rooms · 7 badges · 20-day streak |
 | 1st Place, Bronze League | Held by only 5.1% of TryHackMe users globally |
 | Handle | [0x7][ADEPT] on TryHackMe |
@@ -303,17 +326,19 @@ Elected representative for the IT department cohort, bridging communication betw
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-a-cyber&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=7C3AED&include_all_commits=true&count_private=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan-a-cyber&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=7C3AED&count_private=true&border_radius=12&hide=contribs" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-a-cyber&theme=tokyonight&border=7C3AED&background=0d1117&ring=A78BFA&fire=7C3AED&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-a-cyber&theme=tokyonight&border=7C3AED&background=0d1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8B949E&border_radius=12" height="180"/>
 </p>
 
+<br/>
 <br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-a-cyber&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&border_radius=12" height="160"/>
 </p>
 
+<br/>
 <br/>
 
 <p align="center">
@@ -352,7 +377,7 @@ Elected representative for the IT department cohort, bridging communication betw
 |:---|:---|:---|
 | Penetration Testing via TryHackMe | RepoGuard — security tooling | Cybersecurity internships |
 | Network exploitation fundamentals | Rytm & ZeroKey — Android apps | Android development internships |
-| Ethical hacking methodology | Prodify — offline-first web app | Open source security contributions |
+| Ethical hacking methodology | PhishGuard AI — ML threat detection | Open source security contributions |
 
 </div>
 
