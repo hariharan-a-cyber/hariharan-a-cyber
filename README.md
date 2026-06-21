@@ -23,12 +23,16 @@
 <br/>
 
 <p align="center">
+  <a href="mailto:hariharan.a.cyber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-hariharan.a.cyber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://hariharan-cyber-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hariharan.a.cyber@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hariharan.a.cyber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hariharan-a-cyber">
@@ -40,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/hariharan-a-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/hariharan.a.cyber">
@@ -219,9 +223,9 @@ Real-time phishing detection system that analyses email text, sender reputation,
 - **Stack:** Python · Flask · scikit-learn · SQLite · REST API · Vercel
 - Ensemble model — Random Forest + Gradient Boosting — achieving **97.7% F1** on held-out test set
 - **16/16 correct** on a hand-written real-world evaluation set; legitimate mail scores ≤ 0.27, phishing ≥ 0.85
-- 27-feature pipeline covering URL structure (IP literals, punycode, suspicious TLDs, domain entropy), text signals (urgency, credential/money terms), and sender reputation
+- 27-feature pipeline covering URL structure, text urgency signals, and sender reputation
 - Explainable verdicts with human-readable reasons per scan; full scan history and alerts via SQLite
-- Single source of truth for features eliminates train/serve mismatch; supports offline synthetic training with no external dataset required
+- Single source of truth for features eliminates train/serve mismatch; supports fully offline training
 
 <br/>
 
@@ -401,20 +405,20 @@ Elected representative for the IT department cohort, bridging communication betw
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hariharan-a-cyber">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <a href="https://hariharan-cyber-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/hariharan-a-cyber">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  <a href="https://www.linkedin.com/in/hariharan-a-cyber">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <a href="https://hariharan-cyber-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+  <a href="https://github.com/hariharan-a-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/hariharan.a.cyber">
