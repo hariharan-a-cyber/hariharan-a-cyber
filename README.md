@@ -5,16 +5,16 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=36&lines=Aspiring+Penetration+Tester;Security+Tool+Builder;Android+%26+Full+Stack+Developer;TryHackMe+Top+15%25+Globally;National+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=36&lines=Aspiring+Penetration+Tester;Security+Tool+Builder;Android+%26+Full+Stack+Developer;TryHackMe+Top+5%25+Globally;National+Hackathon+Winner" alt="Typing SVG" />
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20%E2%80%94%20Information%20Technology-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/B.Tech%20Information%20Technology-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/2nd%20Year%20%E2%80%94%20DSCET-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/2nd%20Year%20DSCET-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Graduating%202029-5B21B6?style=for-the-badge&labelColor=1a1a2e"/>
 </p>
@@ -48,7 +48,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/hariharan.a.cyber">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2015%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d1117"/>
   </a>
 </p>
 
@@ -63,16 +63,18 @@
 
 <br/>
 
-I'm a security-focused software developer and second-year IT undergraduate, building tools at the intersection of **cybersecurity**, **Android development**, and **full-stack web**. My work spans zero-knowledge cryptographic systems, AI-augmented vulnerability scanners, ML-based phishing detection, and production-grade Android apps.
+I am a second-year IT undergraduate who builds security tools for real. My projects span zero-knowledge password vaults, ML-powered phishing detectors, AI-augmented code scanners, and production Android apps. I do not just study security concepts, I implement them and ship working systems.
 
-I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and have integrated real security tooling — Semgrep, Bandit, and OWASP Top 10 mapping — into working production projects.
+On TryHackMe I hold a **Top 5% global rank** with 88 rooms completed, including the full Cybersecurity 101 learning path. I have earned epic-rarity league badges and completed hands-on rooms covering exploitation, privilege escalation, and network attacks.
+
+My goal is penetration testing and red teaming. Every project I build is a step toward that, whether it is implementing Argon2id key derivation in ZeroKey, writing a SAST scanner in RepoGuard, or training a phishing classifier in PhishGuard AI.
 
 <br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Cybersecurity%20Internships-7C3AED?style=flat-square&labelColor=1a1a2e"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Android%20%2F%20Full--Stack%20Internships-6D28D9?style=flat-square&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Open%20To-Android%20and%20Full%20Stack%20Internships-6D28D9?style=flat-square&labelColor=1a1a2e"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-5B21B6?style=flat-square&labelColor=1a1a2e"/>
 </p>
@@ -120,7 +122,7 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 <br/>
 
-**Backend & Databases**
+**Backend and Databases**
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -136,7 +138,7 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 <br/>
 
-**Tools & DevOps**
+**Tools and DevOps**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -155,23 +157,23 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 <br/>
 
-### Cybersecurity Focus
+### Cybersecurity Skills
 
 <br/>
 
 <div align="center">
 
-| Area | Level | Notes |
+| Area | Level | Details |
 |:---|:---:|:---|
-| Static Analysis | `Familiar` | Semgrep & Bandit integrated in RepoGuard |
-| Cryptography | `Familiar` | AES-256, Argon2id, HMAC-SHA256 in ZeroKey |
-| OWASP Top 10 | `Aware` | Applied finding categories in RepoGuard |
-| ML Threat Detection | `Familiar` | 97.7% F1 phishing detection in PhishGuard AI |
-| Networking | `Beginner` | TryHackMe Network Fundamentals |
-| Linux & CLI | `Beginner` | TryHackMe Linux Fundamentals |
-| Android Hardening | `Familiar` | Root/Frida detection, FLAG_SECURE in ZeroKey |
-| Secret Detection | `Familiar` | PR-level scanning via GitHub Actions |
-| Penetration Testing | `Learning` | Actively progressing through TryHackMe pentest path |
+| Penetration Testing | `Learning` | 88 rooms on TryHackMe including exploitation and privilege escalation |
+| Static Analysis | `Familiar` | Semgrep and Bandit integrated in RepoGuard with OWASP mapping |
+| Cryptography | `Familiar` | AES-256, Argon2id, HMAC-SHA256 applied in ZeroKey |
+| ML Threat Detection | `Familiar` | 97.7% F1 phishing classifier in PhishGuard AI |
+| Web Exploitation | `Familiar` | Completed EternalBlue room, web fundamentals path on TryHackMe |
+| Networking | `Intermediate` | Network Fundamentals path completed, 88 rooms total |
+| Linux and CLI | `Intermediate` | Linux Fundamentals path completed, comfortable with privilege escalation labs |
+| Android Hardening | `Familiar` | Root and Frida detection, FLAG_SECURE, Autofill domain verification in ZeroKey |
+| Secret Detection | `Familiar` | PR-level secret scanning via GitHub Actions in RepoGuard |
 
 </div>
 
@@ -182,7 +184,7 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 <br/>
 
-### Featured Projects
+### Projects
 
 <br/>
 
@@ -190,12 +192,13 @@ I hold a **Top 15% global ranking on TryHackMe** across 47 completed rooms and h
 
 [github.com/hariharan-a-cyber/ZeroKey](https://github.com/hariharan-a-cyber/ZeroKey)
 
-Android password vault built on zero-knowledge principles with hardware-backed encryption and encrypted credential sharing.
+A password manager that knows nothing about your passwords. The vault never sees plaintext — encryption and decryption happen entirely on device, with keys derived from your master password using Argon2id and protected inside Android's hardware security module.
 
-- **Stack:** Kotlin · Jetpack Compose · Google Tink · Argon2id · Android Keystore · Firestore
-- Argon2id key derivation + AES-256 envelope encryption, StrongBox/TEE-backed keys
-- Phishing-resistant Autofill with domain verification; end-to-end encrypted Firestore sync
-- Ephemeral key exchange for secure cross-device credential sharing
+- **Stack:** Kotlin, Jetpack Compose, Google Tink, Argon2id, Android Keystore, Firestore
+- AES-256 envelope encryption with StrongBox/TEE-backed key storage
+- Phishing-resistant Autofill with domain verification so the keyboard cannot be spoofed
+- Ephemeral key exchange for end-to-end encrypted credential sharing between devices
+- Frida and root detection, FLAG_SECURE screen capture prevention
 
 <br/>
 
@@ -203,12 +206,12 @@ Android password vault built on zero-knowledge principles with hardware-backed e
 
 [github.com/hariharan-a-cyber/RepoGuard](https://github.com/hariharan-a-cyber/RepoGuard)
 
-Automated, AI-augmented vulnerability detection engine integrated directly into GitHub pull request workflows.
+A security scanner that sits inside your pull request workflow and catches vulnerabilities before they hit main. Every PR gets scanned, scored, and annotated with actionable fix guidance automatically.
 
-- **Stack:** Python · FastAPI · Semgrep · Bandit · OpenAI-compatible API · GitHub Actions
-- Scans every PR automatically, posts per-finding results as comments with a 0–100 risk score
-- OWASP-mapped findings with AI-generated remediation guidance per vulnerability
-- Secured with JWT authentication; secret scanning integrated via GitHub Actions
+- **Stack:** Python, FastAPI, Semgrep, Bandit, OpenAI-compatible API, GitHub Actions
+- Risk scoring from 0 to 100 with per-finding OWASP category mapping
+- AI-generated remediation suggestions attached directly to pull request comments
+- JWT-secured API surface, secret scanning via GitHub Actions
 
 <br/>
 
@@ -216,16 +219,15 @@ Automated, AI-augmented vulnerability detection engine integrated directly into 
 
 [github.com/hariharan-a-cyber/PhishGuard](https://github.com/hariharan-a-cyber/PhishGuard) · [Live Demo](https://phishguardtech.vercel.app)
 
-> **2nd Place — National Level Hackathon** · Built as team leader of a 4-member team in first year · Fully rebuilt and modernised from the original hackathon codebase.
+> **2nd Place at a National Level Hackathon.** Originally built leading a 4-member team in first year. This repository is a complete rebuild with working ML models, a unified feature pipeline, and a proper evaluation framework.
 
-Real-time phishing detection system that analyses email text, sender reputation, and URLs through a 27-feature ML pipeline.
+A real-time phishing detection system that analyses email text, sender reputation, and URL structure through a 27-feature ML pipeline and explains every verdict in plain language.
 
-- **Stack:** Python · Flask · scikit-learn · SQLite · REST API · Vercel
-- Ensemble model — Random Forest + Gradient Boosting — achieving **97.7% F1** on held-out test set
-- **16/16 correct** on a hand-written real-world evaluation set; legitimate mail scores ≤ 0.27, phishing ≥ 0.85
-- 27-feature pipeline covering URL structure, text urgency signals, and sender reputation
-- Explainable verdicts with human-readable reasons per scan; full scan history and alerts via SQLite
-- Single source of truth for features eliminates train/serve mismatch; supports fully offline training
+- **Stack:** Python, Flask, scikit-learn, SQLite, REST API, Vercel
+- Random Forest and Gradient Boosting ensemble achieving 97.7% F1 on held-out test data
+- 16/16 correct on a hand-written real-world evaluation set with wide confidence margins
+- 27 engineered features covering URL patterns, domain entropy, urgency language, and sender signals
+- Explainable verdicts with human-readable reasons, scan history, and phishing alerts dashboard
 
 <br/>
 
@@ -233,26 +235,25 @@ Real-time phishing detection system that analyses email text, sender reputation,
 
 [github.com/hariharan-a-cyber/Prodify](https://github.com/hariharan-a-cyber/Prodify) · [Live](https://prodifyhub.vercel.app)
 
-Offline-first study productivity web app with AI coach, focus mode, and gamification — packaged for Android via Capacitor.
+A study productivity app that works without internet. Built for students who need focus tools, habit tracking, and an AI study coach that does not need a server to function.
 
-- **Stack:** JavaScript · Firebase Auth · Firestore · Capacitor · Service Worker · IndexedDB
-- Fully functional offline via IndexedDB + service worker caching — zero network dependency
-- XP/badge gamification, smart study scheduler, focus mode with distraction blocking
-- Deployed on Vercel with GitHub-connected CI/CD; packaged as Android APK via Capacitor
+- **Stack:** JavaScript, Firebase Auth, Firestore, Capacitor, Service Worker, IndexedDB
+- Fully offline via IndexedDB and service worker caching
+- XP and badge gamification, smart study scheduler, focus mode with distraction blocking
+- Packaged as a native Android APK via Capacitor, deployed on Vercel
 
 <br/>
 
-#### Rytm — High-Reliability Habit & Hydration Tracker
+#### Rytm — Reliable Habit and Hydration Tracker
 
 [github.com/hariharan-a-cyber/Rytm](https://github.com/hariharan-a-cyber/Rytm)
 
-Native Android habit tracker built on Clean Architecture with a battle-tested alarm engine that fires reliably even during Android Deep Sleep.
+A habit tracker that actually wakes you up. Most Android alarm implementations break under Doze mode. Rytm uses `setExactAndAllowWhileIdle` with BroadcastReceiver rescheduling on reboot and clock changes to guarantee delivery.
 
-- **Stack:** Kotlin · Room · Dagger Hilt · Coroutines · Kotlin Flow · WorkManager · AlarmManager
-- `setExactAndAllowWhileIdle` alarm engine — guaranteed delivery during Doze mode
-- Full-screen lock-screen alarms with snooze; water tracking with confetti celebrations
-- Non-destructive Room migration, atomic transactions, JSON backup/restore
-- Reboot and clock-change rescheduling via BroadcastReceivers
+- **Stack:** Kotlin, Room, Dagger Hilt, Coroutines, Kotlin Flow, WorkManager, AlarmManager
+- Alarm engine fires during Android Deep Sleep, survives reboot and clock changes
+- Full-screen lock-screen alarms with snooze, water tracking with streak counting
+- Non-destructive Room migrations, atomic transactions, JSON backup and restore
 
 <br/>
 <br/>
@@ -265,14 +266,10 @@ Native Android habit tracker built on Clean Architecture with a battle-tested al
 
 <br/>
 
-**Class Representative** — Dhanalakshmi Srinivasan College of Engineering and Technology
-*Information Technology Department · 2025 – Present*
+**Class Representative** at Dhanalakshmi Srinivasan College of Engineering and Technology
+*Information Technology Department, 2025 to present*
 
-Elected representative for the IT department cohort, bridging communication between students and faculty, coordinating academic activities, and driving peer engagement across technical events and hackathons.
-
-- Coordinating departmental academic and technical initiatives
-- Representing student interests in faculty and administrative discussions
-- Fostering participation in national-level competitions
+Elected by the IT cohort to represent student interests to faculty and administration. Coordinate academic activities, technical events, and hackathon participation across the department.
 
 <br/>
 <br/>
@@ -292,13 +289,21 @@ Elected representative for the IT department cohort, bridging communication betw
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%2015%25-TryHackMe%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Top%205%25-TryHackMe%20Global%20Rank-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0d1117"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1st%20Place-Bronze%20League%20(Top%205.1%25)-CD7F32?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gold%20League%201st%20Place-Epic%200.6%25-FFD700?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Silver%20League%201st%20Place-Epic%200.8%25-C0C0C0?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Badge-EternalBlue%20Exploit%20(Rare%208.4%25)-1E90FF?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
 </p>
 
 <br/>
@@ -308,13 +313,13 @@ Elected representative for the IT department cohort, bridging communication betw
 
 | Recognition | Details |
 |:---|:---|
-| 2nd Place | NovoForge National Level Hackathon 2025 · DSCET · PhishGuard AI |
-| Top 15% Global | TryHackMe — 47 rooms · 7 badges · 20-day streak |
-| 1st Place, Bronze League | Held by only 5.1% of TryHackMe users globally |
-| Handle | [0x7][ADEPT] on TryHackMe |
-| Badges Earned | Networking Nerd · Webbed · World Wide Web |
-| Certificate | [Pre-Security Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRZPIAXS2J.pdf) |
-| Role | Class Representative · IT Dept · DSCET (2025–Present) |
+| 2nd Place | NovoForge National Level Hackathon 2025, DSCET, PhishGuard AI |
+| Top 5% Global | TryHackMe rank #115036, handle [0x9][MAGE] |
+| 88 Rooms Completed | Including exploitation, privilege escalation, and network attack labs |
+| 16 Badges Earned | Gold League 1st (Epic 0.6%), Silver League 1st (Epic 0.8%), Blue/EternalBlue (Rare 8.4%) |
+| Cybersecurity 101 | [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QRAC8YTI1S.pdf) — Full Cybersecurity 101 learning path |
+| Pre-Security Path | [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FRZPIAXS2J.pdf) |
+| Role | Class Representative, IT Department, DSCET, 2025 to present |
 
 </div>
 
@@ -377,11 +382,11 @@ Elected representative for the IT department cohort, bridging communication betw
 
 <div align="center">
 
-| Currently Learning | Currently Building | Open To |
+| Studying | Building | Open To |
 |:---|:---|:---|
-| Penetration Testing via TryHackMe | RepoGuard — security tooling | Cybersecurity internships |
-| Network exploitation fundamentals | Rytm & ZeroKey — Android apps | Android development internships |
-| Ethical hacking methodology | PhishGuard AI — ML threat detection | Open source security contributions |
+| Penetration testing methodology | RepoGuard v2 with deeper SAST coverage | Cybersecurity internships |
+| Network exploitation on TryHackMe | ZeroKey secure sharing improvements | Android development internships |
+| Privilege escalation techniques | PhishGuard AI model improvements | Open source security contributions |
 
 </div>
 
